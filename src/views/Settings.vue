@@ -119,7 +119,7 @@
 											persistent-hint
 											label="Plugins"
 											:items="[
-												'@ongit/zwavejsui-prom-exporter",
+												'@ongit/zwavejsui-prom-exporter',
 												'@kvaster/zwavejs-prom',
 											]"
 											multiple
